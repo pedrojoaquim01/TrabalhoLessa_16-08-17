@@ -1,0 +1,9 @@
+c:\users\pedro.castro\documents\visual studio 2015\Projects\TrabalhoDia_16-08-17\TrabalhoDia_16-08-17\bin\Debug\TrabalhoDia_16-08-17.exe.config
+c:\users\pedro.castro\documents\visual studio 2015\Projects\TrabalhoDia_16-08-17\TrabalhoDia_16-08-17\bin\Debug\TrabalhoDia_16-08-17.exe
+c:\users\pedro.castro\documents\visual studio 2015\Projects\TrabalhoDia_16-08-17\TrabalhoDia_16-08-17\bin\Debug\TrabalhoDia_16-08-17.pdb
+c:\users\pedro.castro\documents\visual studio 2015\Projects\TrabalhoDia_16-08-17\TrabalhoDia_16-08-17\obj\Debug\TrabalhoDia_16-08-17.csprojResolveAssemblyReference.cache
+c:\users\pedro.castro\documents\visual studio 2015\Projects\TrabalhoDia_16-08-17\TrabalhoDia_16-08-17\obj\Debug\TrabalhoDia_16_08_17.Form1.resources
+c:\users\pedro.castro\documents\visual studio 2015\Projects\TrabalhoDia_16-08-17\TrabalhoDia_16-08-17\obj\Debug\TrabalhoDia_16_08_17.Properties.Resources.resources
+c:\users\pedro.castro\documents\visual studio 2015\Projects\TrabalhoDia_16-08-17\TrabalhoDia_16-08-17\obj\Debug\TrabalhoDia_16-08-17.csproj.GenerateResource.Cache
+c:\users\pedro.castro\documents\visual studio 2015\Projects\TrabalhoDia_16-08-17\TrabalhoDia_16-08-17\obj\Debug\TrabalhoDia_16-08-17.exe
+c:\users\pedro.castro\documents\visual studio 2015\Projects\TrabalhoDia_16-08-17\TrabalhoDia_16-08-17\obj\Debug\TrabalhoDia_16-08-17.pdb
