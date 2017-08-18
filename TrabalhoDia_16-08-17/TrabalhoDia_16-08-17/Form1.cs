@@ -89,5 +89,20 @@ namespace TrabalhoDia_16_08_17
             }
             clicar3 = 1;
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void campoMinaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+        
+        private void novaFormaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            new Form2().ShowDialog();
+        }
     }
 }
